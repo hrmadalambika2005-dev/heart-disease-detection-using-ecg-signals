@@ -130,4 +130,5 @@ This figure shows the complete MATLAB output including the 4-subplot ECG analysi
 - Cloud integration for remote monitoring
 
 ## Author
+-H R Madalambika
 - Harshita S
