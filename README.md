@@ -128,6 +128,9 @@ This figure shows the complete MATLAB output including the 4-subplot ECG analysi
 - Adaptive thresholding and EMD-based denoising
 - MATLAB GUI or web-based interface for clinical use
 - Cloud integration for remote monitoring
-
 ## Author
-- Harshita S
+
+**H R Madalambika**
+
+Electronics and Communication Engineering Student  
+Interested in Artificial Intelligence, Machine Learning, MATLAB, and Software Development.
